@@ -1,8 +1,8 @@
 # Additional Information
 
 - Hosted AWS Community Day 2023 HandsOn lab(Nov, 2023)
-Track 2 Container Workshop
-https://bit.ly/community2023-handson
+ - Track 2 Container Workshop
+ - https://bit.ly/community2023-handson
 
 - AWS Community Day 2023 Track 2 Owner(Oct, 2023)
 Organize and host a Track 2 event
